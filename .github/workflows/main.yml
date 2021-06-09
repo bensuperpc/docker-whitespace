@@ -1,4 +1,4 @@
-name: docker-<<IMAGE_NAME>>
+name: docker-whitespace
 
 on:
   push:
@@ -17,7 +17,7 @@ on:
 
 jobs:
   image:
-    name: docker-<<IMAGE_NAME>>
+    name: docker-whitespace
     runs-on: ubuntu-20.04
     steps:
       - name: "📥 Checkout Code"

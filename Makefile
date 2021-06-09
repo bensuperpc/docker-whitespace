@@ -21,7 +21,7 @@
 #//                                                          //
 #//////////////////////////////////////////////////////////////
 BASE_IMAGE := alpine:latest
-IMAGE_NAME := bensuperpc/<<IMAGE_NAME>>
+IMAGE_NAME := bensuperpc/whitespace
 DOCKERFILE := Dockerfile
 
 DOCKER := docker
