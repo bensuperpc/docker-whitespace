@@ -3,7 +3,7 @@
 ### _whitespace JIT in docker_
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-[![docker-brainfuck-tritium](https://github.com/bensuperpc/docker-whitespace/actions/workflows/main.yml/badge.svg)](https://github.com/bensuperpc/docker-whitespace/actions/workflows/main.yml) [![docker](https://img.shields.io/docker/pulls/bensuperpc/whitespace.svg)](https://hub.docker.com/r/bensuperpc/whitespace/)
+[![docker-whitespace](https://github.com/bensuperpc/docker-whitespace/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bensuperpc/docker-whitespace/actions/workflows/main.yml) [![docker](https://img.shields.io/docker/pulls/bensuperpc/whitespace.svg)](https://hub.docker.com/r/bensuperpc/whitespace/)
 
 # New Features !
 
